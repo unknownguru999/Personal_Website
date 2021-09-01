@@ -27,7 +27,7 @@ design:
   <div class="col-12">
 <div class="gallery">
     <a data-fancybox="gallery-gallery" href="/media/albums/gallery/a.png" >
-      <img src="/media/albums/gallery/a.png" loading="lazy" alt="a.png" width="128" height="190">
+      <img src="/media/albums/gallery/a.jpg" loading="lazy" alt="a.png" width="128" height="190">
     </a>
    <a data-fancybox="gallery-gallery" href="/media/albums/gallery/b.jpg" >
       <img src="/media/albums/gallery/b.jpg" loading="lazy" alt="b.jpg" width="285" height="190">
@@ -36,7 +36,7 @@ design:
       <img src="/media/albums/gallery/c.jpg" loading="lazy" alt="c.jpg" width="253" height="190">
     </a>
   <a data-fancybox="gallery-gallery" href="/media/albums/gallery/d.jpg" >
-      <img src="/media/albums/gallery/d.jpg" loading="lazy" alt="d.jpg" width="143" height="190">
+      <img src="/media/albums/gallery/d.png" loading="lazy" alt="d.jpg" width="143" height="190">
     </a>
   <a data-fancybox="gallery-gallery" href="/media/albums/gallery/e.jpg" >
       <img src="/media/albums/gallery/e.jpg" loading="lazy" alt="e.jpg" width="143" height="190">
