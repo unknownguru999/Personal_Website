@@ -7,40 +7,44 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
-title: Skills
-subtitle:
+title: Languages and Frameworks
+
+# subtitle: Languages and Frameworks
+
+
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- icon: c
+  icon_pack: custom
+  name: C++
+- icon: html
+  icon_pack: custom
+  name: HTML
+- icon: python
+  icon_pack: custom
+  name: Python
+- icon: react
+  icon_pack: custom
+  name: ReactJs
+- icon: css
+  icon_pack: custom
+  name: CSS
+- icon: javascript
+  icon_pack: custom
+  name: JavaScript
+- icon: spring
+  icon_pack: custom
+  name: Spring
+- icon: flask
+  icon_pack: custom
+  name: Flask
+- icon: nodejs
+  icon_pack: custom
+  name: NodeJS
 
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place your custom SVG icon in `assets/media/icons/`.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
 ---
