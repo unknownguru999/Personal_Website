@@ -1,6 +1,6 @@
 ---
 title: Co-Founder EduBubble
-subtitle: Helping students crack their coding tests and interviews 
+subtitle: Helping students ace their engineering journey 
 
 # Summary for listings and search engines
 summary: Co-Founded an e-learning platform ‘EduBubble’ with an aim to help students crack their coding tests and interviews and reached 230+ followers, mentored 1000+ students over the course of 6 months.
@@ -71,6 +71,7 @@ We did some free one on one resume sessions for students and recieved some amazi
   </div>
 </div>
 
+## A glipmse into what is EduBubble
 
 {{< video src="video.mp4" controls="yes" >}}
 <!-- ## Features
